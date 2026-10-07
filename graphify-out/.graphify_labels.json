@@ -1,0 +1,21 @@
+{
+  "0": "Core Audio HAL Foundation",
+  "1": "USB Audio Transport",
+  "2": "Driver Unit Tests",
+  "3": "USB and Audio Probes",
+  "4": "Feedback Clock Control",
+  "5": "NS6 Status Application",
+  "6": "MIDI Controller Transport",
+  "7": "Audio Queue and Resampling",
+  "8": "CoreMIDI Bridge",
+  "9": "Research and Design Notes",
+  "10": "USB Scheduling API",
+  "11": "Timing Measurements",
+  "12": "Audio Recovery Logic",
+  "13": "I/O Flow Metrics",
+  "14": "HAL Plugin Interface",
+  "15": "USB Timing Regression Check",
+  "16": "Installer Post-Install",
+  "17": "Installer Pre-Install",
+  "18": "Status App Icon"
+}

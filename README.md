@@ -22,6 +22,10 @@ The implementation follows the device's 44.1 kHz feedback and whole-frame USB pa
 - Catalina 10.15 is the minimum deployment target. No claim of support below Catalina is made.
 - The x86_64 build is not yet validated with real Intel NS6 hardware. Reports should include the Mac model, macOS version, driver build, DJ software, and audio settings.
 
+## Architecture map
+
+Graphify's generated architecture map is checked in under `graphify-out/`: open [`graph.html`](graphify-out/graph.html) for the interactive graph, inspect [`graph.json`](graphify-out/graph.json) for machine-readable nodes and edges, or read [`GRAPH_REPORT.md`](graphify-out/GRAPH_REPORT.md) for community summaries and extraction limitations. This is a snapshot of the current source tree; regenerate it after significant code or documentation changes.
+
 ## Build
 
 Install Xcode Command Line Tools, then build the HAL driver, status app, and MIDI bridge:

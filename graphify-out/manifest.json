@@ -1,0 +1,416 @@
+{
+  "coreaudio/AudioDefault.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845518,
+    "ast_hash": "2ea35d466c49a84595df73c0091f4a32",
+    "semantic_hash": "2ea35d466c49a84595df73c0091f4a32"
+  },
+  "coreaudio/AudioList.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845521,
+    "ast_hash": "3a8418b1622797bb117ad3596dd5aee4",
+    "semantic_hash": "3a8418b1622797bb117ad3596dd5aee4"
+  },
+  "coreaudio/NS6ActiveFlow.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455229,
+    "ast_hash": "2d1260963c04d7840bdd4d90da19f0a1",
+    "semantic_hash": "2d1260963c04d7840bdd4d90da19f0a1"
+  },
+  "coreaudio/NS6ActiveFlowTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455229,
+    "ast_hash": "99f9c69f462d8a28565425b6865ba8af",
+    "semantic_hash": "99f9c69f462d8a28565425b6865ba8af"
+  },
+  "coreaudio/NS6AudioRecovery.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845524,
+    "ast_hash": "d7bb66c0bc1861031cfd2a6d27715696",
+    "semantic_hash": "d7bb66c0bc1861031cfd2a6d27715696"
+  },
+  "coreaudio/NS6AudioRecovery.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845524,
+    "ast_hash": "58119994325530a434772e326cff2b33",
+    "semantic_hash": "58119994325530a434772e326cff2b33"
+  },
+  "coreaudio/NS6AudioRecoveryTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845525,
+    "ast_hash": "8592c93ec60d8b9a5017596fa79f6884",
+    "semantic_hash": "8592c93ec60d8b9a5017596fa79f6884"
+  },
+  "coreaudio/NS6BufferFrameSize.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845525,
+    "ast_hash": "cd49c1958d21bc23e8823ec87b4f457f",
+    "semantic_hash": "cd49c1958d21bc23e8823ec87b4f457f"
+  },
+  "coreaudio/NS6BufferFrameSizeTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845526,
+    "ast_hash": "b00029c058ec4a00258df5ff087f9e99",
+    "semantic_hash": "b00029c058ec4a00258df5ff087f9e99"
+  },
+  "coreaudio/NS6ClockControl.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845526,
+    "ast_hash": "2184511582621c7e3159cb4b5ba00984",
+    "semantic_hash": "2184511582621c7e3159cb4b5ba00984"
+  },
+  "coreaudio/NS6ClockControl.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845527,
+    "ast_hash": "28bcf3a3c299d3410d00792f93f60f18",
+    "semantic_hash": "28bcf3a3c299d3410d00792f93f60f18"
+  },
+  "coreaudio/NS6ClockControlFeedbackPatternTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455281,
+    "ast_hash": "aaf65f44ec61a637e6cb703ef891c5c1",
+    "semantic_hash": "aaf65f44ec61a637e6cb703ef891c5c1"
+  },
+  "coreaudio/NS6ClockControlFixedTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455281,
+    "ast_hash": "0b345ddd82d4898cda03cfe813ac3adf",
+    "semantic_hash": "0b345ddd82d4898cda03cfe813ac3adf"
+  },
+  "coreaudio/NS6ClockControlNominalFloorTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845529,
+    "ast_hash": "55a3e03ddd51e66e8eca63b587d69b50",
+    "semantic_hash": "55a3e03ddd51e66e8eca63b587d69b50"
+  },
+  "coreaudio/NS6ClockControlTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845529,
+    "ast_hash": "4a806f90e55466391c4900aa7e730c8c",
+    "semantic_hash": "4a806f90e55466391c4900aa7e730c8c"
+  },
+  "coreaudio/NS6FirmwareVersion.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.84553,
+    "ast_hash": "915470071cd564940d7989b8ba272214",
+    "semantic_hash": "915470071cd564940d7989b8ba272214"
+  },
+  "coreaudio/NS6FirmwareVersion.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.84553,
+    "ast_hash": "bc27d74006e2edb0422558331375d231",
+    "semantic_hash": "bc27d74006e2edb0422558331375d231"
+  },
+  "coreaudio/NS6FirmwareVersionTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845531,
+    "ast_hash": "d05efa95eea588a928bdcbd7a39dbb23",
+    "semantic_hash": "d05efa95eea588a928bdcbd7a39dbb23"
+  },
+  "coreaudio/NS6HAL.c": {
+    "mtime": 1791347428.7465475,
+    "seen": 1791408986.845531,
+    "ast_hash": "c0effeb8118191856709e970af208167",
+    "semantic_hash": "c0effeb8118191856709e970af208167"
+  },
+  "coreaudio/NS6IOMetrics.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845532,
+    "ast_hash": "0ce3ba052b7ed6b99265643cb2ef46f9",
+    "semantic_hash": "0ce3ba052b7ed6b99265643cb2ef46f9"
+  },
+  "coreaudio/NS6IOMetrics.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845532,
+    "ast_hash": "e2cf9aa92fb294552879178883799774",
+    "semantic_hash": "e2cf9aa92fb294552879178883799774"
+  },
+  "coreaudio/NS6IOMetricsTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845533,
+    "ast_hash": "816cf8045e9256c9db08ac15fedcacb6",
+    "semantic_hash": "816cf8045e9256c9db08ac15fedcacb6"
+  },
+  "coreaudio/NS6MIDI.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455338,
+    "ast_hash": "6a3fe3dd7a3266fc9ed13a6c34592647",
+    "semantic_hash": "6a3fe3dd7a3266fc9ed13a6c34592647"
+  },
+  "coreaudio/NS6MIDI.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455338,
+    "ast_hash": "67e66f14fa8b515069e683db3fed31d5",
+    "semantic_hash": "67e66f14fa8b515069e683db3fed31d5"
+  },
+  "coreaudio/NS6MIDIBridge.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455338,
+    "ast_hash": "bbbcf47d8f097c5339c5bba84166c865",
+    "semantic_hash": "bbbcf47d8f097c5339c5bba84166c865"
+  },
+  "coreaudio/NS6MIDIParser.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845535,
+    "ast_hash": "84c5df258ff901b9f771d008c7ca9950",
+    "semantic_hash": "84c5df258ff901b9f771d008c7ca9950"
+  },
+  "coreaudio/NS6MIDIParserTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845535,
+    "ast_hash": "7209807d2378990d9161e018661a920b",
+    "semantic_hash": "7209807d2378990d9161e018661a920b"
+  },
+  "coreaudio/NS6MIDIRecovery.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845536,
+    "ast_hash": "098cc75afd2b9d1580963f84262c1a6e",
+    "semantic_hash": "098cc75afd2b9d1580963f84262c1a6e"
+  },
+  "coreaudio/NS6MIDIRecoveryTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845536,
+    "ast_hash": "13d0430a8569ef66a633ae5a9ec81522",
+    "semantic_hash": "13d0430a8569ef66a633ae5a9ec81522"
+  },
+  "coreaudio/NS6Transport.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845537,
+    "ast_hash": "9bbb63e11abeaf27761ffcb4b817784d",
+    "semantic_hash": "9bbb63e11abeaf27761ffcb4b817784d"
+  },
+  "coreaudio/NS6Transport.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845537,
+    "ast_hash": "3aba12bea833b4f298e5d939f5e24535",
+    "semantic_hash": "3aba12bea833b4f298e5d939f5e24535"
+  },
+  "coreaudio/NS6TransportRingTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455381,
+    "ast_hash": "4518fe6d26bc3c363f49b9686586f0d7",
+    "semantic_hash": "4518fe6d26bc3c363f49b9686586f0d7"
+  },
+  "coreaudio/NS6USB.c": {
+    "mtime": 1791347379.0146022,
+    "seen": 1791408986.8455381,
+    "ast_hash": "6a36adaa708e1bd9553a249e8dac9269",
+    "semantic_hash": "6a36adaa708e1bd9553a249e8dac9269"
+  },
+  "coreaudio/NS6USB.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845539,
+    "ast_hash": "4b1ba5906560f138addb4ac1a897d463",
+    "semantic_hash": "4b1ba5906560f138addb4ac1a897d463"
+  },
+  "coreaudio/NS6USBConfig.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845539,
+    "ast_hash": "9a87ff846f25ae07e3294436a3f28c3c",
+    "semantic_hash": "9a87ff846f25ae07e3294436a3f28c3c"
+  },
+  "coreaudio/NS6USBConfigTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.84554,
+    "ast_hash": "f9b243632abe0d56d8bc7a23bcdf5017",
+    "semantic_hash": "f9b243632abe0d56d8bc7a23bcdf5017"
+  },
+  "coreaudio/NS6USBEndpoint.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.84554,
+    "ast_hash": "6296faec2e359dcb8de939fe3bdab9f2",
+    "semantic_hash": "6296faec2e359dcb8de939fe3bdab9f2"
+  },
+  "coreaudio/NS6USBEndpointTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455412,
+    "ast_hash": "ca17aba832301c0dc34df1f905ed06f8",
+    "semantic_hash": "ca17aba832301c0dc34df1f905ed06f8"
+  },
+  "coreaudio/NS6USBFrameTimestamps.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455412,
+    "ast_hash": "90cbea8de9b88bd71b4fb834f9b10b34",
+    "semantic_hash": "90cbea8de9b88bd71b4fb834f9b10b34"
+  },
+  "coreaudio/NS6USBFrameTimestampsTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845542,
+    "ast_hash": "85ffaa4b8639e36597c7d3749e1f61c1",
+    "semantic_hash": "85ffaa4b8639e36597c7d3749e1f61c1"
+  },
+  "coreaudio/NS6USBRealtime.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845542,
+    "ast_hash": "9bc2489b8dc4f5e33f39281ed23be9cb",
+    "semantic_hash": "9bc2489b8dc4f5e33f39281ed23be9cb"
+  },
+  "coreaudio/NS6USBRealtimeTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845543,
+    "ast_hash": "a92a942614ee83691001ba1c85940eb8",
+    "semantic_hash": "a92a942614ee83691001ba1c85940eb8"
+  },
+  "coreaudio/NS6USBTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845543,
+    "ast_hash": "22157337362098db43eec5d1a5c89b02",
+    "semantic_hash": "22157337362098db43eec5d1a5c89b02"
+  },
+  "coreaudio/NS6USBTiming.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455439,
+    "ast_hash": "2ebe12d50b6cb022409aec12da88fc74",
+    "semantic_hash": "2ebe12d50b6cb022409aec12da88fc74"
+  },
+  "coreaudio/NS6USBTiming.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845545,
+    "ast_hash": "8fa1d240b48db9e4daf86872f1d1144d",
+    "semantic_hash": "8fa1d240b48db9e4daf86872f1d1144d"
+  },
+  "coreaudio/NS6USBTimingTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845545,
+    "ast_hash": "4ad2a32d8cfe0fbf058d583989915c92",
+    "semantic_hash": "4ad2a32d8cfe0fbf058d583989915c92"
+  },
+  "coreaudio/NS6USBWorkIntervalRegressionTest.sh": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845545,
+    "ast_hash": "b26cd5e5108ea8be7bc3d0342a266774",
+    "semantic_hash": "b26cd5e5108ea8be7bc3d0342a266774"
+  },
+  "coreaudio/NS6USBWorkerQoS.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845546,
+    "ast_hash": "f7f5cda40fc3eccd3ce676b4d3b5b289",
+    "semantic_hash": "f7f5cda40fc3eccd3ce676b4d3b5b289"
+  },
+  "coreaudio/NS6USBWorkerQoSTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845546,
+    "ast_hash": "063c40bb852f26f02bffc64a060512fc",
+    "semantic_hash": "063c40bb852f26f02bffc64a060512fc"
+  },
+  "coreaudio/NS6ZeroTimestamp.h": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845547,
+    "ast_hash": "9359dcb3eb9b6b395b348f8612baa63f",
+    "semantic_hash": "9359dcb3eb9b6b395b348f8612baa63f"
+  },
+  "coreaudio/NS6ZeroTimestampTest.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845547,
+    "ast_hash": "b468b57b0d695f7d67e6c04da21d3e43",
+    "semantic_hash": "b468b57b0d695f7d67e6c04da21d3e43"
+  },
+  "coreaudio/package-scripts/postinstall": {
+    "mtime": 1791347440.369308,
+    "seen": 1791408986.845548,
+    "ast_hash": "60d32d7c745d45b1fc2f451684075aa7",
+    "semantic_hash": "60d32d7c745d45b1fc2f451684075aa7"
+  },
+  "coreaudio/package-scripts/preinstall": {
+    "mtime": 1791347440.3460524,
+    "seen": 1791408986.845548,
+    "ast_hash": "e973286fd491c77ea884c85590da15f3",
+    "semantic_hash": "e973286fd491c77ea884c85590da15f3"
+  },
+  "coreaudio/status-app/IconGenerator.swift": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845549,
+    "ast_hash": "c5804f063c08a6863e16085e97c032c9",
+    "semantic_hash": "c5804f063c08a6863e16085e97c032c9"
+  },
+  "coreaudio/status-app/NS6Status.swift": {
+    "mtime": 1791347428.798643,
+    "seen": 1791408986.845549,
+    "ast_hash": "cf249a71f354b10abc1540f029ace632",
+    "semantic_hash": "cf249a71f354b10abc1540f029ace632"
+  },
+  "ns6-clock-probe.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.84555,
+    "ast_hash": "5c9ab036d6ba75080127cebecf275557",
+    "semantic_hash": "5c9ab036d6ba75080127cebecf275557"
+  },
+  "tools/ns6-isoc-schedule-probe.c": {
+    "mtime": 1791347447.3779929,
+    "seen": 1791408986.84555,
+    "ast_hash": "9143312288a175fafaa3c05e48190b52",
+    "semantic_hash": "9143312288a175fafaa3c05e48190b52"
+  },
+  "tools/ns6-libusb-probe.c": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845551,
+    "ast_hash": "0b98085d5ce5216622ee17788d8adcbf",
+    "semantic_hash": "0b98085d5ce5216622ee17788d8adcbf"
+  },
+  "tools/ns6-native-tone.c": {
+    "mtime": 1791347447.3997273,
+    "seen": 1791408986.845551,
+    "ast_hash": "f384b7ef4683743ffd65a3242435057f",
+    "semantic_hash": "f384b7ef4683743ffd65a3242435057f"
+  },
+  "tools/ns6-probe.c": {
+    "mtime": 1791347447.3560054,
+    "seen": 1791408986.8455522,
+    "ast_hash": "fd775ebda2a6f12dd0b15e1b40a9cd1e",
+    "semantic_hash": "fd775ebda2a6f12dd0b15e1b40a9cd1e"
+  },
+  "README.md": {
+    "mtime": 1791347504.3752482,
+    "seen": 1791408986.8455522,
+    "ast_hash": "fdc8df0a68c6edff46c748c0b74f48b0",
+    "semantic_hash": "fdc8df0a68c6edff46c748c0b74f48b0"
+  },
+  "coreaudio/README.md": {
+    "mtime": 1791347469.9699492,
+    "seen": 1791408986.845553,
+    "ast_hash": "740ea5e238786891326422ffdede8547",
+    "semantic_hash": "740ea5e238786891326422ffdede8547"
+  },
+  "docs/research/ns6-audio-capture-evidence.md": {
+    "mtime": 1791347548.883989,
+    "seen": 1791408986.845553,
+    "ast_hash": "824a1392ee417191a8fb4026a8e1fad5",
+    "semantic_hash": "824a1392ee417191a8fb4026a8e1fad5"
+  },
+  "docs/research/ns6-firmware-version-runtime.md": {
+    "mtime": 1791347548.9082606,
+    "seen": 1791408986.8455539,
+    "ast_hash": "8342d358764de2ae0cc716140aa5e5f6",
+    "semantic_hash": "8342d358764de2ae0cc716140aa5e5f6"
+  },
+  "docs/superpowers/plans/2026-10-06-ns6-audio-capture.md": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455539,
+    "ast_hash": "e7acc17724538d6b1dd82d1d9f45314f",
+    "semantic_hash": "e7acc17724538d6b1dd82d1d9f45314f"
+  },
+  "docs/superpowers/plans/2026-10-06-ns6-firmware-version.md": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455548,
+    "ast_hash": "9212585dc4ebae87cf563f32159faecd",
+    "semantic_hash": "9212585dc4ebae87cf563f32159faecd"
+  },
+  "docs/superpowers/specs/2026-10-06-ns6-audio-capture-design.md": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.8455548,
+    "ast_hash": "3bed2876c790283965626498949cd188",
+    "semantic_hash": "3bed2876c790283965626498949cd188"
+  },
+  "docs/superpowers/specs/2026-10-06-ns6-firmware-version-design.md": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845556,
+    "ast_hash": "1803c1441b480d6ec5bd474adf4f8df6",
+    "semantic_hash": "1803c1441b480d6ec5bd474adf4f8df6"
+  },
+  "coreaudio/status-app/NS6Status.svg": {
+    "mtime": 1791337538.0,
+    "seen": 1791408986.845556,
+    "ast_hash": "931bf492af1ec34027c31611d66a50a6",
+    "semantic_hash": "931bf492af1ec34027c31611d66a50a6"
+  }
+}
