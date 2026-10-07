@@ -1,0 +1,6 @@
+#!/bin/zsh
+set -eu
+
+# Replace only the Intel package's prior status app.
+/bin/rm -rf "/Applications/Numark NS6 Status (Intel).app"
+exit 0

@@ -1,0 +1,11 @@
+.worktrees/
+.DS_Store
+build/
+dist/
+*.dSYM/
+*.pkg
+ns6-clock-probe
+tools/ns6-probe
+tools/ns6-libusb-probe
+tools/ns6-isoc-schedule-probe
+tools/ns6-native-tone
